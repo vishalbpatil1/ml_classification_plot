@@ -2,7 +2,7 @@
 This package perform different way to visualize machine learning  and deep learning classification results
 
 ## User installation
-If you already have a working installation of numpy and scipy, the easiest way to install scikit-learn is using pip
+If you already have a working installation of numpy and scipy, the easiest way to install plotly_ml_classification is using pip
 ```bash
 pip install plotly_ml_classification
 ```
