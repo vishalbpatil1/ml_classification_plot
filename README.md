@@ -73,3 +73,5 @@ plot.plot_roc()
 plot_probability_histogram()
 
 ```
+
+![confusion matrix plot](confusion matrix.png)
