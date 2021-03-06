@@ -4,7 +4,7 @@ This package perform different way to visualize machine learning  and deep learn
 ## User installation
 If you already have a working installation of numpy and scipy, the easiest way to install plotly_ml_classification is using pip
 ```bash
-pip install plotly_ml_classification
+pip install plotclassification
 ```
 
 ## Usage
@@ -12,7 +12,7 @@ pip install plotly_ml_classification
 ```python
 
 # import libraries
-from plotly_ml_classification import plot
+import plotclassification 
 from sklearn import datasets 
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split 
@@ -47,9 +47,9 @@ model = classifier.fit(x_train, y_train)
 y_test__scores = model.predict_proba(x_test)
 
 # initialize parameters value
-plot=plot.ml_classification_plot(y=y_test,
-	                             y_predict_proba=y_test__scores,
-	                             class_name=['Class 1','class 2','class 3'])
+plot=plotclassification.plot(y=y_test,
+	                     y_predict_proba=y_test__scores,
+	                     class_name=['Class 1','class 2','class 3'])
 
 ```
 
