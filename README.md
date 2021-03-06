@@ -4,7 +4,7 @@ This package perform different way to visualize machine learning  and deep learn
 ## User installation
 If you already have a working installation of numpy and scipy, the easiest way to install plotly_ml_classification is using pip
 ```bash
-pip install plotclassification
+pip install plotclassification==0.0.4
 ```
 
 ## Usage
