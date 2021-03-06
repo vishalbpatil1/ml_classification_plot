@@ -74,4 +74,4 @@ plot_probability_histogram()
 
 ```
 
-![confusion matrix plot](confusion matrix.png)
+![confusion matrix plot](https://github.com/vishalbpatil1/ml_classification_plot/blob/main/confusion%20matrix.png)
