@@ -57,24 +57,34 @@ plot=plotclassification.plot(y=y_test,
 plot.class_name
 ['Class 1', 'class 2', 'class 3']
 
-# classification report plot
-plot.plot_classification_report()
-
-#  confusion matrix plot
-plot.plot_confusion_matrix()
-
-# precision recall curve plot
-plot.plot_precision_recall_curve()
-
-# roc plot
-plot.plot_roc()
-
-# predicted probability histogram plot
-plot_probability_histogram()
-
 ```
 
+```python
+# classification report plot
+plot.plot_classification_report()
+```
+![classification report](https://github.com/vishalbpatil1/ml_classification_plot/blob/main/classification%20report.png)
+
+
+```python
+#  confusion matrix plot
+plot.plot_confusion_matrix()
+```
 ![confusion matrix plot](https://github.com/vishalbpatil1/ml_classification_plot/blob/main/confusion%20matrix.png)
-![confusion matrix plot](https://github.com/vishalbpatil1/ml_classification_plot/blob/main/confusion%20matrix.png)
-![confusion matrix plot](https://github.com/vishalbpatil1/ml_classification_plot/blob/main/confusion%20matrix.png)
-![confusion matrix plot](https://github.com/vishalbpatil1/ml_classification_plot/blob/main/confusion%20matrix.png)
+
+
+```python
+# precision recall curve plot
+plot.plot_precision_recall_curve()
+```
+```python
+# roc plot
+plot.plot_roc()
+```
+![roc plot](https://github.com/vishalbpatil1/ml_classification_plot/blob/main/roc%20curve.png)
+
+```python
+# predicted probability histogram plot
+plot.plot_probability_histogram()
+```
+![histogram](https://github.com/vishalbpatil1/ml_classification_plot/blob/main/histogram.png)
