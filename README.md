@@ -1,4 +1,6 @@
-[![Downloads](https://static.pepy.tech/personalized-badge/plotclassification?period=total&units=international_system&left_color=blue&right_color=green&left_text=Downloads)](https://pepy.tech/project/plotclassification)
+[![Downloads](https://static.pepy.tech/personalized-badge/plotclassification?period=total&units=international_system&left_color=blue&right_color=green&left_text=Downloads)
+
+
 # ml_classification_plot
 This package perform different way to visualize machine learning  and deep learning classification results
 
